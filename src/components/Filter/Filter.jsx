@@ -6,6 +6,8 @@ class Filter extends Component {
   static propTypes = {
     filterChange: PropTypes.func.isRequired,
   };
+
+  
   render() {
     return (
       <Label>
